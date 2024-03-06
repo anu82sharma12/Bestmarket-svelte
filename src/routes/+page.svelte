@@ -9,7 +9,7 @@
 </script>
 
 <svelte:head>
-	<title>SwiftMarket</title>
+	<title>BE$tMarket</title>
 </svelte:head>
 
 {#if banners.length !== 0}
@@ -25,11 +25,11 @@
 			</div>
 			<div class="mb-6 lg:mb-0 flex flex-col justify-center">
 				<p class="text-gray-500 text-lg">
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex eum iste repudiandae nisi modi
-					placeat velit repellendus, tempore voluptates facere maiores praesentium harum deleniti
-					voluptatibus laudantium quasi quos recusandae soluta ullam maxime quaerat debitis beatae
-					accusamus reprehenderit! Eius veniam itaque numquam aliquid officiis nemo, quidem maxime,
-					maiores aliquam officia voluptatum.
+					The company itself is a very successful company. There is no way to get rid of him He
+					wishes to be repulsed, in time to make pleasures greater than those present freed from the
+					pleasures of the praisers, as if they were to be refused, let him seek most of all the
+					duties of the blessed We blame him! His pardon, therefore, is never done by anyone,
+					especially some major duties of pleasure.
 				</p>
 			</div>
 		</div>

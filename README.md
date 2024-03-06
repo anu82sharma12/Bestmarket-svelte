@@ -1,4 +1,4 @@
-# SwiftMarket
+# BE$tMarket
 
 E-Commerce solution built with SvelteKit, Pocketbase as a database and Stripe for payments, providing better performance and faster development time.
 
@@ -6,12 +6,6 @@ You can try a demo at https://swiftmarket.vercel.app/
 
 ## Getting Started
 
-### Clone the repo
-
-```bash
-git clone https://github.com/SwiftMarket/swiftmarket-sveltekit.git
-cd swiftmarket-sveltekit
-```
 
 ### Setting up SvelteKit
 Install dependencies
