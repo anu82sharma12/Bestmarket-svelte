@@ -8,7 +8,7 @@ const config: UserConfig = {
 	},
 	optimizeDeps: {
 		include: ['svelte-carousel']
-	}
+	} 
 };
 
 export default config;
