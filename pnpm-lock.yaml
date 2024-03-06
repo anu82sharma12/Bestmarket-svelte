@@ -13,7 +13,7 @@ specifiers:
   eslint-config-prettier: ^8.6.0
   eslint-plugin-svelte3: ^4.0.0
   pocketbase: ^0.12.1
-  postcss: ^8.4.21
+  postcss: ^8.4.21 
   prettier: ^2.8.4
   prettier-plugin-svelte: ^2.9.0
   stripe: ^11.13.0
